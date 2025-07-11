@@ -1,0 +1,21 @@
+/server
+  ├── config/
+  │   ├── db.js                # MongoDB Connection
+  ├── controllers/
+  │   ├── authController.js     # User Authentication
+  │   ├── chatbotController.js  # AI Chatbot
+  │   ├── resumeController.js   # Resume Upload & AI Matching
+  ├── middleware/
+  │   ├── authMiddleware.js     # JWT Authentication Middleware
+  ├── models/
+  │   ├── Job.js                # Job Schema
+  │   ├── Resume.js             # Resume Schema
+  │   ├── User.js               # User Schema
+  ├── routes/
+  │   ├── authRoutes.js         # Authentication Routes
+  │   ├── chatbotRoutes.js      # Chatbot Routes
+  │   ├── resumeRoutes.js       # Resume Routes
+  ├── utils/
+  │   ├── resumeParser.js       # Resume Parsing Logic (PDF/Text Processing)
+  ├── server.js                 # Main Server Entry
+  ├── package.json              # Dependencies

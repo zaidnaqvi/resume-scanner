@@ -1,0 +1,86 @@
+
+
+Projects :
+CSS Framework :
+To learn SASS (SCSS), I have created 
+a CSS framework like Bootstrap. This 
+framework includes utility classes for 
+margin, padding, gap, etc., and 
+components like cards and buttons.
+I used Live Sass Compiler VS code 
+extension to compile Sass code into 
+css.
+I learned Scss syntax and how to use 
+it efficiently.
+I also learned about variables, 
+objects, function, loops and more.
+Advice Generator App :  
+I have created advice generator 
+app, inspired by a project on 
+frontendmentor.io
+This fetches random advice from the 
+Advice Slip API and shows it when 
+interacting with a button using Fetch 
+API.
+Had some extra functionality to copy 
+the fetched advice along with its ID 
+for user
+MahmadHadi
+nayanihadi97@gmail.com | (+91) 9726127214
+Aim to become frontend master
+@MahmadHadi
+/MahmadHadi Nayani 
+Skills :
+Languages:
+C, C++ (basic), Java
+Web Dev:
+Core Techs: HTML5, CSS, JS
+Library | Frameworks: React.js, Next.js
+Backend: Node.js, Express.js
+Database: MongoDB
+CSS: Tailwindcss, Bootstrap, SASS 
+Animation: GSAP
+Version Control: GIT, GitHub
+Academic:
+OOP in Java and JS
+Education :
+Gyanmanjari Innovative University (GMIU) :
+B. Tech. in I.T. - Sep 2023 - Sep 2027
+7.22 CGPA
+Higher Secondary Certificate (HSC) :
+12th Board : 79.33 percentile
+GUJCET : 88.53 percentile
+JEE : 73.06 NTA score, 2023
+Secondary School Certificate (SSC) :
+10th Board : 81.87 percentile, 2021
+Experience : 
+Teacher at The EasyLearn Academy
+(January ‘24 - September ‘24)
+Taught programming languages and 
+web development technologies: C, 
+HTML, CSS, JavaScript, Node.js, and 
+Bootstrap.
+Conducted 7 months of classes 
+(March - September) after completing 
+2 months of training (January - 
+February).
+MERN Stack developer at 1Royal Marine LLP
+(October ‘24 - Present)
+Built two professional MERN stack 
+websites:
+1royalmarinellp.com : 
+Created this e-commerce platform to 
+reduce product selling costs by 
+streamlining the sales process and 
+providing a direct online presence.
+jsvc.in:
+Designed this personal portfolio 
+website to attract more international 
+clients for the client.
+Leadership Experience :
+Team Leader, Tech Manjari Event
+(Tech Manjari ‘24)
+Directed the development of a video 
+calling app using the WebRTC API, 
+highlighting advanced real-time 
+communication technology.
